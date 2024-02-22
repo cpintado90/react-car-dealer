@@ -1,0 +1,55 @@
+{
+    "vehicleCategories" : [
+        {
+            "label": "Cars & Minivan",
+            "value": "Cars & Minivan",
+            "vehicles": [
+                { "id" : "1", "color": "indigo", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid Available", "model": "Highlander", "description": "Go above and beyond the ordinary.", "costAmount" :"39270", "mpg" : "22/29"},
+                { "id" : "2", "color": "amber", "src" : "", "year": "2024", "carGroup": "3", "title": "All Electric", "model": "Hybrid Available", "description": "Electrifying, inside and out.", "costAmount" :"43070", "mpg" : "252 Miles"},
+                { "id" : "3", "color": "purple", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid", "model": "Hybrid", "description": "Serious style that goes a long way.", "costAmount" :"40970", "mpg" : "36/35"},
+                { "id" : "4", "color": "gray", "src" : "", "year": "2024", "carGroup": "3", "title": "The First Ever 2024", "model": "Plug-in Hybrid", "description": "Make family time more epic than ever.", "costAmount" :"43320", "mpg" : "21/28"},
+                { "id" : "5", "color": "red", "src" : "", "year": "2024", "carGroup": "3", "title": "The First Ever 2024", "model": "Hybrid Available", "description": "Efficiency that opens up grand possibilities.", "costAmount" :"45020", "mpg" : "37/14"}
+            ]
+        },
+        {
+            "label": "Trucks",
+            "value": "Trucks",
+            "vehicles": [
+                { "id" : "1", "color": "indigo", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid Available", "model": "Highlander", "description": "Go above and beyond the ordinary.", "costAmount" :"39270", "mpg" : "22/29"},
+                { "id" : "2", "color": "amber", "src" : "", "year": "2024", "carGroup": "3", "title": "All Electric", "model": "Hybrid Available", "description": "Electrifying, inside and out.", "costAmount" :"43070", "mpg" : "252 Miles"},
+                { "id" : "3", "color": "purple", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid", "model": "Hybrid", "description": "Serious style that goes a long way.", "costAmount" :"40970", "mpg" : "36/35"}
+            ]
+        },
+        {
+            "label": "Crossovers & SUV's",
+            "value": "Crossovers & SUV's",
+            "vehicles": [
+                { "id" : "1", "color": "indigo", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid Available", "model": "Highlander", "description": "Go above and beyond the ordinary.", "costAmount" :"39270", "mpg" : "22/29"},
+                { "id" : "2", "color": "amber", "src" : "", "year": "2024", "carGroup": "3", "title": "All Electric", "model": "Hybrid Available", "description": "Electrifying, inside and out.", "costAmount" :"43070", "mpg" : "252 Miles"},
+                { "id" : "3", "color": "purple", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid", "model": "Hybrid", "description": "Serious style that goes a long way.", "costAmount" :"40970", "mpg" : "36/35"}
+            ]
+
+
+          },
+          {
+            "label": "Electrified",
+            "value": "Electrified",
+            "vehicles": [
+                { "id" : "1", "color": "indigo", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid Available", "model": "Highlander", "description": "Go above and beyond the ordinary.", "costAmount" :"39270", "mpg" : "22/29"},
+                { "id" : "2", "color": "amber", "src" : "", "year": "2024", "carGroup": "3", "title": "All Electric", "model": "Hybrid Available", "description": "Electrifying, inside and out.", "costAmount" :"43070", "mpg" : "252 Miles"},
+                { "id" : "3", "color": "purple", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid", "model": "Hybrid", "description": "Serious style that goes a long way.", "costAmount" :"40970", "mpg" : "36/35"}
+            ]
+
+          },
+          {
+            "label": "Upcoming Vehicles",
+            "value": "Upcoming Vehicles",
+            "vehicles": [
+                { "id" : "1", "color": "indigo", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid Available", "model": "Highlander", "description": "Go above and beyond the ordinary.", "costAmount" :"39270", "mpg" : "22/29"},
+                { "id" : "2", "color": "amber", "src" : "", "year": "2024", "carGroup": "3", "title": "All Electric", "model": "Hybrid Available", "description": "Electrifying, inside and out.", "costAmount" :"43070", "mpg" : "252 Miles"},
+                { "id" : "3", "color": "purple", "src" : "", "year": "2024", "carGroup": "3", "title": "Hybrid", "model": "Hybrid", "description": "Serious style that goes a long way.", "costAmount" :"40970", "mpg" : "36/35"}
+            ]
+
+          }]
+
+}

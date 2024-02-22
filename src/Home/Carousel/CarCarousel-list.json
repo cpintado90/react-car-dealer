@@ -1,0 +1,13 @@
+{
+        "carouselItem": [
+            {"src" : "/Pics/2022-toyota-supra.jpg",
+            "alt" : "image 1",
+            "class" : "h-full w-full object-cover"},
+            {"src" : "/Pics/2018-porsche-911-gt3.jpg",
+            "alt" : "image 2",
+            "class" : "h-full w-full object-cover"},
+            {"src" : "/Pics/2019-Honda-Accord-Sport.png",
+            "alt" : "image 3",
+            "class" : "h-full w-full object-cover"}
+    ]
+}
