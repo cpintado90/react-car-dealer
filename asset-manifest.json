@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-car-dealer/static/css/main.f066ca51.css",
+    "main.js": "/react-car-dealer/static/js/main.f9f3ea78.js",
+    "index.html": "/react-car-dealer/index.html",
+    "main.f066ca51.css.map": "/react-car-dealer/static/css/main.f066ca51.css.map",
+    "main.f9f3ea78.js.map": "/react-car-dealer/static/js/main.f9f3ea78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f066ca51.css",
+    "static/js/main.f9f3ea78.js"
+  ]
+}
